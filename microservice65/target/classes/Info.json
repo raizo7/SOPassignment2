@@ -1,0 +1,20 @@
+{
+  "openAPI": {
+"servers": [ {
+       "url":"http://localhost:8081"
+}], "info": {
+"title": "File Storage",
+"description": "Storing information for students in a text file",
+"termsOfService": "https://canvas.qub.ac.uk/courses/24419",
+"contact": {
+"email": "d.athanasopoulos@qub.ac.uk"
+},
+"license": {
+  "name": "Teaching License",
+"url": "https://canvas.qub.ac.uk/courses/24419"
+},
+"version": "0.0.1-SNAPSHOT"
+}
+},
+"prettyPrint": true
+}
